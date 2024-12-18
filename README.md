@@ -26,3 +26,6 @@
 USD (доллар США),  
 EUR (евро),  
 GBP (британский фунт).  
+![image](https://github.com/user-attachments/assets/3fc71488-8035-4d22-98cb-a3eb16f01d91)
+![image](https://github.com/user-attachments/assets/0f44ff69-d134-4927-84e2-5c42dc577707)
+
